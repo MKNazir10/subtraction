@@ -1,3 +1,3 @@
 ### Architecture Diagram
 
-<img src="./Images/Architecture Diagram.png" alt="Flow Diagram" width="400"/>
+<img src="Calculator/Images/Architecture Diagram.png" alt="Flow Diagram" width="400"/>
