@@ -13,8 +13,3 @@ class TestSubtractionFunctional(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-
-# git rm app.py 
-# git commit -m "Removed oldfile.py"
-# git push origin main
